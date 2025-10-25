@@ -70,8 +70,6 @@ int main()
     cout.tie(nullptr);
 
     int tc = 1;
-    // If you have multiple test-cases, uncomment next line:
-    // cin >> tc;
     for (int t = 0; t < tc; t++)
     {
         solve();
